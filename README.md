@@ -12,3 +12,6 @@
 ---
 1. hotfix version problem
 1. test work distribute
+
+## Reading Plan
+1. 人月神话
