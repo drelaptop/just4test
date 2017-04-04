@@ -8,3 +8,7 @@
 ## start learn UnitTest
 
 1. junit4 simple test
+
+---
+1. hotfix version problem
+1. test work distribute
