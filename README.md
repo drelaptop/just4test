@@ -15,3 +15,5 @@
 
 ## Reading Plan
 1. 人月神话
+
+## Used to test cocos2d-x docs
